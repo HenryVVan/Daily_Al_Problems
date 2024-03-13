@@ -1,12 +1,4 @@
-package contest;
 
-/**
- * @Author：Henry Wan
- * @Package：contest
- * @Project：com.fight.pre01
- * @Date：2024/3/13 18:43
- * @Filename：LC836_Henry
- */
 public class LC836_Henry {
     public static void main(String[] args) {
         System.out.println(new Solution().isRectangleOverlap(new int[]{0, 0, 2, 2}, new int[]{1, 1, 3, 3}));
